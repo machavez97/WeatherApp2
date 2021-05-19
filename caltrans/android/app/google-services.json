@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "444100547791",
+    "project_id": "caltranscalculator-b2658",
+    "storage_bucket": "caltranscalculator-b2658.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444100547791:android:122c6c82d9447e696613ba",
+        "android_client_info": {
+          "package_name": "com.example.caltrans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444100547791-h5b1k2117hrqlk3gr4rr71mmsfen9u5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl4X13Q0h7b-kqm8WTokPSC_Y8JK6viDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444100547791-h5b1k2117hrqlk3gr4rr71mmsfen9u5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
